@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="icon_preview.png" alt="Glint icon" width="180">
+</p>
+
 # Glint
 
 **A fast, glassy, endlessly customisable launcher for macOS.**
