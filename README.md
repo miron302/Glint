@@ -13,7 +13,7 @@ math — with almost every visual and behavioural detail exposed in Settings.
 ## Why Glint
 
 - **Lightweight** — no background indexing daemon of its own. It reuses
-  macOS's existing Spotlight index (`NSMetadataQuery`) for files, and caches
+  macOS's existing Spotlight index for files, and caches
   a plain in-memory list of installed apps refreshed every couple of
   minutes. Idle CPU/RAM footprint is close to zero.
   
