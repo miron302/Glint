@@ -1,3 +1,5 @@
+## This is not longer in development, please use Alfred or Raycast instead! 
+
 <p align="left">
   <img src="icon_preview.png" alt="Glint icon" width="180">
 </p>
